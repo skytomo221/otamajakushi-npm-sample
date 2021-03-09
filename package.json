@@ -1,0 +1,18 @@
+{
+  "name": "otmajakushi-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "otamajakushi": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^12.20.4",
+    "typescript": "^4.2.3"
+  }
+}
