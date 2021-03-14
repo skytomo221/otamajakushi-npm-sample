@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "otamajakushi": "^1.0.1"
+    "otamajakushi": "^1.1.0"
   },
   "devDependencies": {
     "@types/node": "^12.20.4",
